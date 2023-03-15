@@ -1,3 +1,3 @@
 @echo off
-pyinstaller MainFile.py
+pyinstaller MainFile.py --onefile
 pause
