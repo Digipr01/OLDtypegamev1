@@ -1,0 +1,6 @@
+__pycache__
+build
+dist
+invfile.txt
+MainFile.spec
+statsfile.txt
