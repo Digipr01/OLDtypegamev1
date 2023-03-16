@@ -1,8 +1,10 @@
 from tkinter import Tk, Label, Button, mainloop, Entry, END
 from FxFile import getArgs, calcTime, load, save, work, viewShop, buyShop, useItem, grantXp, strinv, checkInv, strhelp
 from time import sleep
-version = "PRE 1.0.1"
 from math import ceil
+
+version = "PRE 1.0.1"
+
 
 cash = 0
 lvl = 1
